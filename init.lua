@@ -1,0 +1,6 @@
+require("config.keymaps")
+require("config.options")
+require("plugins.catppuccin")
+require("plugins.treesitter")
+require("plugins.telescope")
+require("plugins.lsp-config")
